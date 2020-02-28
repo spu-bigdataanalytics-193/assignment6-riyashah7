@@ -10,7 +10,7 @@ Thw following tasks will be performed.
     
     Exploring the data with Spark DataFrame
 
-## For Reading the data
+### 2. For Reading the data
 
 Performed the following operations.
 
@@ -24,8 +24,8 @@ Performed the following operations.
 
 From following tasks were performed using two methods:
 
-- using pyspark.sql.dataframe functions
-- using SQL queries 
+> using pyspark.sql.dataframe functions
+> using SQL queries 
 
 - Select first 10 rows of dataset.
 - Show the schema of of the dataset.
@@ -33,9 +33,7 @@ From following tasks were performed using two methods:
 - Filter your dataset by some conditions based on your column.
 - Apply group by with having clause.
 - Apply order by.
-- Apply inner join/ left join/ right join on your two tables.
 - Select distinct records by a column.
-- Register a user defined function to Spark and use it in your Spark SQL Query.
 - Transform the data type of columns from int to string/ string to integer.
 
 ## Spark SQL

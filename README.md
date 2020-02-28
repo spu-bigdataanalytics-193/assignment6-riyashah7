@@ -12,7 +12,7 @@ Thw following tasks will be performed.
 
 ## For Reading the data
 
-From the list below, performed the following operations.
+Performed the following operations.
 
 - Read data as RDD
 - Read data as DataFrame

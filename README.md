@@ -10,6 +10,13 @@ Thw following tasks will be performed.
     
     Exploring the data with Spark DataFrame
 
+From the list below, performed the following functions.
+
+- Read data as RDD
+- Read data as DataFrame
+- Convert RDD to Spark DataFrame
+- Convert Spark DataFrame to RDD
+- Convert Spark DataFrame to Pandas DataFrame
 
 ## Spark SQL
 

@@ -25,6 +25,7 @@ Performed the following operations.
 From following tasks were performed using two methods:
 
 > using pyspark.sql.dataframe functions
+
 > using SQL queries 
 
 - Select first 10 rows of dataset.

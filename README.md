@@ -11,7 +11,7 @@ Thw following tasks will be performed.
     Exploring the data with Spark DataFrame
 
 
-Spark SQL
+## Spark SQL
 
 To do the tasks with Spark SQL, we need to implement the tasks by writing SQL queries and executing the results with Spark SQL.
 
@@ -19,7 +19,7 @@ your_query = 'select * from tablename'
 
 sparkSession.sql(your_query).show()
 
-Spark DataFrame
+## Spark DataFrame
 
 To do the tasks with Spark DataFrame, we need to use pyspark.sql.DataFrame functions like below.
 

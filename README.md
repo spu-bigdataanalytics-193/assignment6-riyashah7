@@ -9,6 +9,12 @@ Thw following tasks will be performed.
     Exploring the data with Spark SQL
     
     Exploring the data with Spark DataFrame
+    
+### 1. Exlploring configuration options on SparkSession
+
+Exploring atleast 5 configuration options for SparkSession. Sample as below: 
+
+SparkSession.builder.config("spark.some.config.option", "some-value")
 
 ### 2. For Reading the data
 

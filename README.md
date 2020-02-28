@@ -10,7 +10,9 @@ Thw following tasks will be performed.
     
     Exploring the data with Spark DataFrame
 
-From the list below, performed the following functions.
+## For Reading the data
+
+From the list below, performed the following operations.
 
 - Read data as RDD
 - Read data as DataFrame

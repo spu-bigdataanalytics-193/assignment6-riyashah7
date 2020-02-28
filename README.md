@@ -20,6 +20,24 @@ Performed the following operations.
 - Convert Spark DataFrame to RDD
 - Convert Spark DataFrame to Pandas DataFrame
 
+### 3. Tasks
+
+From following tasks were performed using two methods:
+
+- using pyspark.sql.dataframe functions
+- using SQL queries 
+
+- Select first 10 rows of dataset.
+- Show the schema of of the dataset.
+- Group by and get max, min, count of a column in the dataset.
+- Filter your dataset by some conditions based on your column.
+- Apply group by with having clause.
+- Apply order by.
+- Apply inner join/ left join/ right join on your two tables.
+- Select distinct records by a column.
+- Register a user defined function to Spark and use it in your Spark SQL Query.
+- Transform the data type of columns from int to string/ string to integer.
+
 ## Spark SQL
 
 To do the tasks with Spark SQL, we need to implement the tasks by writing SQL queries and executing the results with Spark SQL.
